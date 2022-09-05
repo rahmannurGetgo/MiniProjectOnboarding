@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.5.0)
+  - HTTPStatusCodes (3.3.1)
+  - Kingfisher (7.3.2)
+  - ObjectMapper (4.2.0)
+  - PromiseKit (6.18.1):
+    - PromiseKit/CorePromise (= 6.18.1)
+    - PromiseKit/Foundation (= 6.18.1)
+    - PromiseKit/UIKit (= 6.18.1)
+  - PromiseKit/CorePromise (6.18.1)
+  - PromiseKit/Foundation (6.18.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.18.1):
+    - PromiseKit/CorePromise
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - HTTPStatusCodes
+  - Kingfisher
+  - ObjectMapper
+  - PromiseKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HTTPStatusCodes
+    - Kingfisher
+    - ObjectMapper
+    - PromiseKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  HTTPStatusCodes: a07dff597042a9f692cf4f979cb0fd91fc938835
+  Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PromiseKit: 49d70c53d5d20e346beaea4b276b5dd2ab446bb4
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 2185e768872de91ff6c9e97e93e78ddef9a615c9
+
+COCOAPODS: 1.11.3
